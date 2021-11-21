@@ -1,0 +1,109 @@
+/* CSS Document */
+#ust{
+	height:48px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#333;
+}
+#ustSag{
+width:20.5%;	
+height:auto;
+float:right;
+vertical-align:central;
+}
+#ustSag ul,#altMenu ul{
+list-style-type:none;
+/*dispaly:inline-block;	*/
+}
+#ustSag ul li{
+vertical-align:central;
+float:left;
+line-height:34px;
+margin-left:22px;
+margin-top:-8px;
+/*dispaly:inline;	*/
+}
+#altMenu ul li{
+	float:left;
+	margin-top:-15px;
+	margin-left:20px;
+}
+#logo{
+width:272px;	
+margin-right:auto;
+margin-left:auto;
+}
+#textbox{
+background: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    z-index: 3;
+    height: 44px;
+    margin: 0 auto;
+    width: auto;
+    max-width: 584px;
+}
+#arama{
+padding:20px;	
+}
+#textbox img{
+margin-left:20px;
+float:left;	
+}
+#textbox img#mic{
+margin-top:9px;
+}
+#textbox img#searchIcon, img#klavye{
+margin-top:12.25px;
+}
+#textbox input{
+margin-left:20px;
+float:left;
+width:400px;	
+border:none;
+}
+#butonlar{
+width: 584px;
+margin-right:auto;
+margin-left:auto;
+text-align:center;
+}
+.btn{
+background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 30px 4px;
+	margin-bottom:10px!important;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+		
+}
+#altDis{
+    background-color: #F2F2F2;
+	position:fixed;
+	bottom: 0px;
+    left: 0px;
+    width: 100%;
+	
+}
+.alt{
+	font-family: arial,sans-serif;
+	padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;	
+	color: #70757a;
+	height:auto;
+}
+#menuSag{
+margin-left:82%;
+}
