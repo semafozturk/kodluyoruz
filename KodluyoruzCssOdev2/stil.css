@@ -1,0 +1,50 @@
+/* CSS Document */
+#genel{
+width:90%;
+margin: 0 auto;
+height:auto;
+}
+#logo{
+text-align:center;	
+}
+#orta{
+background-color:#EEEEEE;
+height:60px;
+text-align:center;	
+margin:3px 0;
+}
+#alt{
+text-align:center;	
+margin:17px 0;
+font-size:13px;	
+}
+#renkliGenel{
+	
+}
+#renkliSol{
+width:35.25%;
+background-color:#7EE5DA;
+text-align:center;	
+padding:11px;
+float:left;
+}
+#renkliOrta{
+width:17.5%;
+background-color:#70CCC2;
+text-align:center;	
+padding:6px;
+float:left;
+margin: 0px 2px;
+}
+#renkliOrta a{
+	font-size:13px;
+}
+#renkliSag{
+width:43.13%;
+background-color:#62B3AA;
+text-align:center;	
+padding:1px;
+float:left;
+font-size:13px;
+}
+
